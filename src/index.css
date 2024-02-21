@@ -5,9 +5,36 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700022295.jpg"), no-repeat, center, center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: "source-code-pro", "Menlo", "Monaco", "Consolas", 'Courier New',
+    "monospace";
+}
+
+.card {
+  backdrop-filter: blur(10px);
+}
+
+.form-select::-webkit-scrollbar {
+  display: none;
+}
+
+/*Search Bar ./News.js*/
+.searchbar {
+  width: 300px;
+  position: fixed;
+  top: 10px;
+  right: 50px;
+  left: auto;
+}
+@media screen and (max-width : 576px) {
+  .searchbar {
+      top: 55px !important;
+      width: 70vw;
+      right: 5px;
+    }
 }

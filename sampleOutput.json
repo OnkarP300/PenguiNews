@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": null,
+      "title": "Why superstar Alexia Putellas is one of the biggest X-factors in 2023 World Cup",
+      "description": "Ahead of Alexia Putellas' first game back for Spain, FOX Sports Research broke down her legendary résumé as well as her journey to this moment to show why she is the tournament's biggest mystery.",
+      "url": "http://www.foxsports.com/stories/soccer/why-superstar-alexia-putellas-is-one-of-the-biggest-x-factors-in-2023-world-cup",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/07/1408/814/7.16.23_Projecting-Alexia-Putellas-Return-to-the-WC_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2023-07-17T11:00:38Z",
+      "content": "The 2023 FIFA Women's World Cup begins this week and one of the game's best players is set to make her return to the international scene. But a question lingers: What kind of impact will she have? \r\n… [+3745 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Oli Welsh",
+      "title": "EA Sports FC 24 gets release date, trailer, and better Switch version",
+      "description": "EA’s first post-FIFA soccer game is business as usual, although Nintendo Switch players will get Ultimate Team, Volta, and Frostbite engine for the first time",
+      "url": "https://www.polygon.com/23794737/ea-sports-fc-release-date-trailer-switch-ultimate-team",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dCRd2OPuhS4M-11vXa3wqZbUF7s=/0x0:1080x565/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24788123/FC24_UT_Keyart_4x5_withlogos.png",
+      "publishedAt": "2023-07-14T12:21:45Z",
+      "content": "The post-FIFA era looks like business as usual, with one notable exception"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "Wemby Draft Success ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/451782-wemby-draft-success",
+      "urlToImage": null,
+      "publishedAt": "2023-06-29T18:52:20.659013Z",
+      "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+    }
+    ,{"source":{"id":"espn-cric-info","name":"ESPN Cric Info"},"author":null,"title":"PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com","description":"Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com","url":"http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket","urlToImage":"https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg","publishedAt":"2020-04-27T11:41:47Z","content":"Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"},{"source":{"id":"espn-cric-info","name":"ESPN Cric Info"},"author":null,"title":"What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com","description":"Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com","url":"http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again","urlToImage":"https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg","publishedAt":"2020-03-30T15:26:05Z","content":"Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"}
+  ]
+}
